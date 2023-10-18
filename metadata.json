@@ -1,0 +1,10 @@
+{
+  "pixel_per_micron": {
+    "processed_darkf_sampleA_01_40x_5ms": 7.36,
+    "processed_darkf_sampleA_02_40x_5ms": 7.42,
+    "processed_darkf_sampleA_03_40x_5ms": 7.3751,
+    "processed_darkf_sampleB_01_40x_5ms": 7.4,
+    "processed_darkf_sampleB_02_40x_5ms": 7.3801,
+    "processed_darkf_sampleB_03_40x_5ms": 7.3752
+  }
+}
